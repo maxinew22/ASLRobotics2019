@@ -10,3 +10,4 @@ The folder directory struture:
 
 
 Both RoboRIO's should have the team number set to 1884, until competition.
+Rachel
